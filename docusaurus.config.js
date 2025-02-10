@@ -3,7 +3,7 @@ module.exports = {
   title: 'Guzzle',
   tagline: 'Guzzle Documentation',
   url: 'https://ja-guzzle.github.io',
-  baseUrl: "/",
+  baseUrl: "/guzzle_docs/",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -50,7 +50,7 @@ module.exports = {
     // },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Just Analytics, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Rackspace Technology`,
     }
   },
   presets: [
